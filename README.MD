@@ -18,8 +18,8 @@ Quick overview
 Prerequisites
 
 - Python 3.9+
-- Pandoc (CLI)
-- ImageMagick (convert, identify)
+- Pandoc (CLI) (https://pandoc.org)
+- ImageMagick (convert, identify) (https://imagemagick.org/script/download.php)
 - Java (for epubcheck)
 - epubcheck.jar (download from https://github.com/w3c/epubcheck/releases)
 - Recommended: TTF font(s) installed, e.g., DejaVu Sans
