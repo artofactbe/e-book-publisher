@@ -1,0 +1,10 @@
+pillow 
+python-docx 
+markdownify 
+python-frontmatter 
+PyYAML 
+click 
+requests
+pytest 
+black 
+flake8
