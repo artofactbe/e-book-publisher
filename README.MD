@@ -1,4 +1,4 @@
-Publish Pipeline — README
+Publish Pipeline
 
 A Python pipeline to convert a manuscript into a validated EPUB and generate ebook and print-ready A8 covers. Produces artifacts ready for upload to ebook stores and print-on-demand services.
 
@@ -125,14 +125,3 @@ Contributing
 - add KPF conversion
 - containerize the pipeline
 - add unit tests and sample files
-
-License
-
-- Add your chosen license file (LICENSE) to the repository.
-
-Contact
-
-- For support or customizations, open an issue describing your input formats, desired outputs, and any specific design or printer requirements.
-
-
-End of README.
